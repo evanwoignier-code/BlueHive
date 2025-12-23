@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blue Hive – Bee Swarm Simulator (Roblox)</title>
+
+  <!-- 🔒 FORCER HTTPS (une fois hébergé) -->
+  <script>
+    if (location.protocol !== 'https:' && location.hostname !== 'localhost') {
+      location.replace('https://' + location.hostname + location.pathname);
+    }
+  </script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(180deg, #0a2540, #0e4b7a);
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #0d6efd;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 30px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #9ddcff;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .card {
+      background: rgba(255,255,255,0.08);
+      padding: 20px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+    }
+    .link-button {
+      display: inline-block;
+      padding: 15px 30px;
+      background: #0d6efd;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+      transition: 0.2s;
+    }
+    .link-button:hover {
+      background: #0b5ed7;
+      transform: scale(1.05);
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #081a2b;
+      font-size: 14px;
+      opacity: 0.8;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>🐝 Blue Hive – Bee Swarm Simulator</h1>
+  <p>Guide complet pour comprendre la ruche bleue sur Roblox</p>
+</header>
+
+<section>
+
+  <!-- 🌐 LIEN HTTPS PARTAGEABLE (Discord) -->
+  <div class="card" style="text-align:center;">
+    <h2>🌐 Accéder au site</h2>
+    <a href="https://TON-PSEUDO.github.io/BlueHive/" target="_blank" class="link-button">
+
+      Ouvrir le guide Blue Hive
+    </a>
+    <p style="margin-top:10px; opacity:0.8;">
+      🔗 https://Blue.hive.com/blue-hive/
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Qu'est-ce qu'une Blue Hive ?</h2>
+    <p>
+      La <strong>Blue Hive</strong> est un type de ruche spécialisée dans la récolte
+      massive de pollen bleu dans <em>Bee Swarm Simulator</em>. Elle est surtout
+      utilisée en mid/late game pour farmer énormément de pollen et de miel grâce
+      aux mécaniques de ballons et de boosts bleus.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Avantages de la Blue Hive</h2>
+    <ul>
+      <li>🌊 Très gros gains de pollen bleu</li>
+      <li>🎈 Utilisation des ballons pour stocker le pollen</li>
+      <li>⚡ Excellente utilisation de macro</li>
+      <li>💎 Très efficace avec les boosts</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Bees principales dans une Blue Hive</h2>
+    <ul>
+      <li><strong>Tadpole Bee</strong> – invoque des bulles et des grenouilles</li>
+      <li><strong>Buoyant Bee</strong> – crée des ballons</li>
+      <li><strong>Diamond Bee</strong> – boost le pollen bleu</li>
+      <li><strong>Bubble Bee</strong> – bulles pour le pollen</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Équipements recommandés</h2>
+    <ul>
+      <li>🎒 <strong>Coco Canister</strong></li>
+      <li>🧲 <strong>Petal Wand</strong> ou <strong>Tide Popper</strong></li>
+      <li>👢 Gummy boots</li>
+      <li>🎭 Amulettes avec bonus pollen bleu et capacity</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Pour qui est faite la Blue Hive ?</h2>
+    <p>
+      La Blue Hive est idéale pour les joueurs <strong>mid à end game</strong>
+      qui veulent farmer efficacement, souvent avec des macros.
+      Mais elle est très rentable sur le long terme.
+    </p>
+  </div>
+
+</section>
+
+<footer>
+  <p>Guide Bee Swarm Simulator – Fan content Roblox</p>
+</footer>
+
+</body>
+</html>
